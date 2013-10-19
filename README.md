@@ -10,3 +10,7 @@ The app allows this to happe via a local PDF or you can input a PDF web address.
 Future updates may include an option to grab all the PDFs off a given page.
 
 This does not format them for a data base insert.. but the plain text can be massaged pretty easy for DB store to search and look up.
+
+=========
+The compiled EXE (and supporting files)
+20131018_Release.zip 
